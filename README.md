@@ -1,2 +1,2 @@
-# java-week-6-coding-assignment
-Repo for java week 6 coding assignment, final project.
+# Back-End-API-Final
+Repo for promineotech back end API final.
